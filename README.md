@@ -224,7 +224,7 @@ Real projects. Real users. Real constraints.
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,symphony,fastapi"/>
+<img src="https://skillicons.dev/icons?i=django,symfony,fastapi"/>
 
 ### 🗄️ Databases
 
