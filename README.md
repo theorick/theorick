@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1500&color=00D2D3&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Salut%2C+moi+c'est+Th%C3%A9o+%F0%9F%91%8B;Full-Stack+Developer+%26+Automation;AI+%7C+Data+%7C+Web3;De+la+Chimie+%C3%A0+la+Tech;Founder+%40+NeuroPay" alt="Typing SVG"/>
+<a href="https://github.com/theorick">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1500&color=00D2D3&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Hi%2C+I'm+Th%C3%A9o+%F0%9F%91%8B;Full-Stack+Developer+%26+Automation;AI+%7C+Data+%7C+Web3;From+Chemistry+to+Tech;Founder+%40+NeuroPay" alt="Typing SVG"/>
 </a>
 
 <br/>
