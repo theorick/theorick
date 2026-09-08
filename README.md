@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/1.gif" width="300"/>
-
 <br/>
 <br/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1500&color=00D2D3&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Salut%2C+moi+c'est+Th%C3%A9o+%F0%9F%91%8B;Full-Stack+Developer+%26+Automation;AI+%7C+Data+%7C+Web3;De+la+Chimie+%C3%A0+la+Tech;Founder+%40+NeuroPay" alt="Typing SVG"/>
 </a>
-
+<img src="./assets/1.gif" width="300"/>
 <br/>
 <br/>
 
@@ -170,11 +168,11 @@ Real projects. Real users. Real constraints.
 
 ### 🐍 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash,go"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,go"/>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,fastapi"/>
+<img src="https://skillicons.dev/icons?i=django,symphoni,fastapi"/>
 
 ### 🗄️ Databases
 
@@ -264,7 +262,7 @@ Freelance projects
 
 <td align="center">
 
-### 2+
+### 7+
 
 Years coding
 
@@ -414,8 +412,8 @@ I don't see my previous background as something unrelated to development.
 
 | Domain             | Technologies                                  |
 | ------------------ | --------------------------------------------- |
-| **Backend**        | Python · Django · FastAPI · Node.js           |
-| **Frontend**       | HTML · CSS · JavaScript · TypeScript          |
+| **Backend**        | Python · Django · FastAPI · Go                |
+| **Frontend**       | HTML · CSS · JavaScript ·                     |
 | **Data**           | Pandas · NumPy · OpenCV                       |
 | **Automation**     | Scraping · Async · APIs · Workflows           |
 | **Databases**      | PostgreSQL · MySQL · SQLite · MongoDB · Redis |
