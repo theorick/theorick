@@ -393,22 +393,18 @@ I don't see my previous background as something unrelated to development.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theorick&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=theorick&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<br/>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theorick&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=theorick&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theorick&layout=compact&theme=transparent&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theorick&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theorick&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
 </details>
+
 
 ---
 
