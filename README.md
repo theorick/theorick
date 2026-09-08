@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img src="./assets/1.gif" width="1000"/>
+<img src="./assets/1.gif" width="600"/>
 
 <br/>
 <br/>
