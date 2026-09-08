@@ -39,6 +39,9 @@
 
 # 👨‍💻 About me
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theorick&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
+
 I'm **Théo**, a French **Full-Stack Developer, Automation Engineer and Product Builder**.
 
 My background is a little unusual:
@@ -222,7 +225,7 @@ Real projects. Real users. Real constraints.
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,symphoni,fastapi"/>
+<img src="https://skillicons.dev/icons?i=django,symphony,fastapi"/>
 
 ### 🗄️ Databases
 
