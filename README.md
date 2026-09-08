@@ -1,84 +1,37 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00D2D3&height=200&section=header&text=Th%C3%A9o%20Meuriot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <a href="https://github.com/theorick">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=2E86DE&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Th%C3%A9o+%F0%9F%91%8B;Alternant+Ing%C3%A9nieur+Logiciel;D%C3%A9veloppeur+Full-Stack+%26+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1200&color=00D2D3&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Th%C3%A9o+%F0%9F%91%8B;Alternant+Ing%C3%A9nieur+Logiciel;Dev+Full-Stack+%26+Passionn%C3%A9+d'IA;Cr%C3%A9ateur+de+contenu+Tech" alt="Typing SVG" />
   </a>
-  <img width=300 src="./assets/1.gif"/>  
+
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/theorick/theorick/main/assets/main.gif" width="300" alt="Animation Profil" />
+  <a href="https://github.com/theorick">
+    <img src="https://raw.githubusercontent.com/theorick/theorick/main/assets/main.gif" width="320" style="border-radius: 10px;" alt="Animation Profil" />
+  </a>
 
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/theo-meuriot" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@tmagency.fr">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/theorick" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
 </div>
 
 <br/>
 
-## 👨‍💻 À propos de moi
+---
 
-Je suis étudiant en développement web (Bac +2) et actuellement **alternant Ingénieur Logiciel Full-Stack chez Unity Plan**, une startup française spécialisée dans la gestion de flottes de véhicules industriels (TPMS).
+## ⚡ En un coup d'œil
 
-Mon parcours est atypique : venu d'un **BUT Génie Chimique des Procédés**, j'ai basculé vers le développement avec une approche rigoureuse héritée des sciences, appliquée aux algorithmes et à la résolution de problèmes complexes.
-
-Je suis aussi créateur de contenu sur LinkedIn (1,4M+ d'impressions en 6 mois) où je partage mes projets et réflexions autour de la tech et de l'IA.
-
-- 🔭 Actuellement en poste chez **Unity Plan** — géolocalisation temps réel de 10 000 camions, suivi pression/température des pneus
-- 🚀 Je construis **NeuroPay**, un protocole de paiement inter-IA pour l'échange autonome de services entre agents
-- 📚 Je développe **PostCraft**, un outil pédagogique open source pour apprendre les requêtes API
-- 🛡️ Je m'intéresse à la **cybersécurité** (sécurité offensive et durcissement défensif)
-- ♟️ En dehors du code : échecs, musique, et scripts d'automatisation Minecraft en Python
-
-<br/>
-
-## 🚀 Projets phares
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🧭 Fleet & TPMS Dashboard** Application Django/Folium de suivi GPS de flotte de camions avec panneau TPMS : pression et température des pneus en temps réel, alertes colorées, conversion bar/psi, données remontées via un binaire Go concurrent.
-
-</td>
-<td width="50%" valign="top">
-
-**💸 NeuroPay** Marketplace/protocole de paiement autonome entre agents IA (micro-paiements crypto en temps réel), compatible LangChain, CrewAI et AutoGen.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 PostCraft** *(open source)* Outil pédagogique pour apprendre à concevoir et comprendre les requêtes API.
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 Audit Django IA** Script Python qui audite un projet Django fichier par fichier via un modèle Ollama local (qwen2.5-coder), avec validation syntaxique, retries et suivi de statut par fichier.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Stack technique
-
-```javascript
-const theo = {
-    languages: ["Python", "JavaScript", "HTML/CSS", "Bash"],
-    backend: ["Django", "FastAPI"],
-    data: ["Web scraping", "Automatisation", "Fine-tuning IA", "Ollama"],
-    infra: ["Linux", "Git", "Go (bases)"],
-    outils: ["Excel", "AutoCAD", "SolidWorks", "Certification PIX"],
-    interets: ["Cybersécurité", "IA appliquée", "Web3"]
-};
+```text
+  🎓 Formation   : Bac +2 Développement Web
+  💼 Post-Actuel : Alternant Ingénieur Logiciel Full-Stack @ Unity Plan
+  🚀 Focus 2026  : Protocole de Paiement Inter-Agents IA (NeuroPay) & Cybersécurité
+  📈 Influence   : 1.4M+ Impressions sur LinkedIn
