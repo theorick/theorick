@@ -387,28 +387,6 @@ I don't see my previous background as something unrelated to development.
 ---
 
 <details>
-<summary><h2>📊 GitHub Statistics</h2></summary>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=theorick&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theorick&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theorick&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
-</details>
-
-
----
-
-<details>
 <summary><h2>🧪 Skills in more detail</h2></summary>
 
 <br/>
