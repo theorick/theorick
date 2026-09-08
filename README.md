@@ -39,9 +39,6 @@
 
 # 👨‍💻 About me
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theorick&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-
-
 I'm **Théo**, a French **Full-Stack Developer, Automation Engineer and Product Builder**.
 
 My background is a little unusual:
@@ -61,6 +58,8 @@ My background is a little unusual:
 I enjoy building software that solves **real-world problems**, especially when data, automation and algorithms can replace repetitive processes or unlock new possibilities.
 
 > **I don't just write code. I build systems.**
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theorick&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
