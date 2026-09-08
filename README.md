@@ -61,6 +61,50 @@ I enjoy building software that solves **real-world problems**, especially when d
 
 ---
 
+# 📊 By the numbers
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 1.4M+
+
+LinkedIn impressions
+
+</td>
+
+<td align="center">
+
+### 10,000+
+
+Vehicles monitored
+
+</td>
+
+<td align="center">
+
+### 5+
+
+Freelance projects
+
+</td>
+
+<td align="center">
+
+### 7+
+
+Years coding
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 # 🚀 What I'm building
 
 <table>
@@ -236,49 +280,6 @@ My favorite projects are the ones where the problem initially looks complicated.
 
 ---
 
-# 📊 By the numbers
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 1.4M+
-
-LinkedIn impressions
-
-</td>
-
-<td align="center">
-
-### 10,000+
-
-Vehicles monitored
-
-</td>
-
-<td align="center">
-
-### 5+
-
-Freelance projects
-
-</td>
-
-<td align="center">
-
-### 7+
-
-Years coding
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 # 📈 Content & Community
 
