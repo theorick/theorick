@@ -1,250 +1,438 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Théo
+<img src="./assets/1.gif" width="300"/>
 
-### Full-Stack Developer · Automation · AI · Data
+<br/>
+<br/>
 
-**Je transforme des problèmes métiers complexes en logiciels simples, automatisés et exploitables.**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1500&color=00D2D3&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Salut%2C+moi+c'est+Th%C3%A9o+%F0%9F%91%8B;Full-Stack+Developer+%26+Automation;AI+%7C+Data+%7C+Web3;De+la+Chimie+%C3%A0+la+Tech;Founder+%40+NeuroPay" alt="Typing SVG"/>
+</a>
 
-<br>
+<br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/theo-meuriot)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/theorick)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contact@tmagency.fr)
+<a href="https://www.linkedin.com/in/theo-meuriot">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://github.com/theorick">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00D2D3&height=120&section=footer" width="100%"/>
+<a href="mailto:contact@tmagency.fr">
+<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=theorick&style=for-the-badge&color=00D2D3&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 À propos
+# 👨‍💻 About me
 
-Je suis **développeur Full-Stack et créateur de produits**, avec un parcours atypique :
-**DUT Génie Chimique → développement logiciel → automatisation → IA & Web3.**
+I'm **Théo**, a French **Full-Stack Developer, Automation Engineer and Product Builder**.
 
-J'aime particulièrement travailler sur des problèmes où **la donnée, les algorithmes et l'automatisation** peuvent transformer une activité métier.
+My background is a little unusual:
 
-Aujourd'hui, je travaille sur des applications web, des systèmes de collecte de données, des automatisations et des produits orientés IA.
+```text
+🧪 Chemical Engineering
+        ↓
+💻 Web Development
+        ↓
+⚙️ Automation & Data
+        ↓
+🤖 Artificial Intelligence
+        ↓
+🌐 AI Agents & Web3
+```
 
-> **Mon approche : comprendre le problème → construire la solution → automatiser ce qui peut l'être.**
+I enjoy building software that solves **real-world problems**, especially when data, automation and algorithms can replace repetitive processes or unlock new possibilities.
+
+> **I don't just write code. I build systems.**
 
 ---
 
-## 🚀 Ce que je construis
+# 🚀 What I'm building
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 NeuroPay
+<td width="50%" valign="top">
 
-**L'infrastructure financière de l'Agentic Web.**
+## 🤖 NeuroPay
 
-Une API et un marché permettant à des agents IA de :
+### The financial infrastructure for the Agentic Web.
 
-* découvrir des services
-* sous-traiter des tâches
-* effectuer des paiements
-* se noter entre eux
-* fonctionner de manière autonome
+NeuroPay is an infrastructure designed for a world where **AI agents can interact economically with each other.**
 
-**Vision :** permettre une économie où les machines peuvent échanger directement entre elles.
+Agents can:
+
+* 🔎 Discover services
+* 🤝 Delegate tasks
+* 💸 Pay other agents
+* ⭐ Rate providers
+* 🔄 Operate autonomously
+
+```text
+AI Agent
+   │
+   ├── Find service
+   │
+   ├── Delegate task
+   │
+   ├── Pay provider
+   │
+   └── Receive result
+```
+
+**Goal:** build infrastructure for an autonomous machine economy.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚚 Fleet Intelligence
+
+A real-world data platform designed to monitor **10,000+ trucks** in real time.
+
+The system combines:
+
+* 📍 GPS tracking
+* 🛞 Tire pressure
+* 🌡️ Tire temperature
+* 🚨 Anomaly detection
+* 📊 Data visualization
+* ⚙️ Automated workflows
+
+The objective is simple:
+
+**Turn thousands of raw data points into actionable information.**
 
 </td>
 
-<td width="50%">
-
-### 🌐 Fleet Intelligence
-
-Une plateforme de supervision de flotte capable de gérer la géolocalisation de **10 000+ camions**.
-
-Avec notamment :
-
-* 📍 géolocalisation temps réel
-* 🛞 pression des pneus
-* 🌡️ température
-* 🚨 détection d'anomalies
-* 📊 visualisation des données
-* ⚙️ automatisation des processus
-
-Objectif : transformer des milliers de données terrain en informations directement exploitables.
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 📚 PostCraft
+<td width="50%" valign="top">
 
-Un projet orienté **Open Source / EdTech** permettant d'apprendre à comprendre et construire des requêtes API.
+## 📚 PostCraft
 
-L'idée : rendre les concepts techniques plus accessibles grâce à une approche interactive.
+An educational project focused on **APIs and developer learning**.
+
+The goal is to make API concepts easier to understand by allowing developers to experiment with requests and see how everything works behind the scenes.
+
+**Open Source · EdTech · APIs**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 Freelance
+
+I've designed and developed **5+ custom applications and e-commerce platforms**.
+
+From:
+
+```text
+Idea
+ ↓
+Architecture
+ ↓
+Backend
+ ↓
+Frontend
+ ↓
+API
+ ↓
+Automation
+ ↓
+Deployment
+```
+
+Real projects. Real users. Real constraints.
 
 </td>
 
-<td width="50%">
-
-### 💻 Freelance
-
-Conception et développement de **5+ applications et plateformes** pour des clients.
-
-De l'idée au déploiement :
-
-**Architecture → Backend → Frontend → API → Automatisation → Production**
-
-</td>
 </tr>
 </table>
 
 ---
 
-## ⚡ Stack
-
-### Backend & APIs
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### Data & Automation
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=flat-square)
-
-**Web Scraping · Data Processing · Async Programming · Workflow Automation · AI Integration**
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
----
-
-## 🔬 Une approche différente
-
-Mon parcours scientifique influence directement ma façon de développer.
-
-Avant le développement logiciel, j'ai étudié le **Génie Chimique des Procédés**.
-
-Cette formation m'a appris à travailler avec :
-
-* 🧮 les mathématiques
-* 🔬 la modélisation
-* 📊 l'analyse de données
-* 🧠 la résolution de problèmes complexes
-* ⚙️ les systèmes et processus
-
-Aujourd'hui, j'applique cette même logique au développement logiciel :
-
-```text
-Problème
-   ↓
-Analyse
-   ↓
-Modélisation
-   ↓
-Algorithme
-   ↓
-Implémentation
-   ↓
-Automatisation
-   ↓
-Résultat
-```
-
----
-
-## 📈 Quelques chiffres
+# ⚡ Tech Stack
 
 <div align="center">
 
-|                         |                   |
-| ----------------------- | ----------------: |
-| 🚀 Impressions LinkedIn |         **1.4M+** |
-| 💼 Projets freelance    |            **5+** |
-| 🚚 Véhicules supervisés |       **10,000+** |
-| 🧪 Parcours             | **Chimie → Tech** |
-| 🤖 Projet principal     |      **NeuroPay** |
+### 🐍 Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash,go"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,fastapi"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+### 🤖 Data / AI
+
+<img src="https://skillicons.dev/icons?i=python,opencv"/>
+
+`Pandas` · `NumPy` · `Data Processing` · `Web Scraping` · `AI APIs` · `Automation`
+
+### 🐳 Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github"/>
 
 </div>
 
 ---
 
-## 🏗️ Actuellement
+# 🧠 How I think about engineering
 
-**💼 Ingénieur logiciel — Unity Plan**
+My scientific background strongly influences the way I approach software.
 
-Développement d'applications web et mobiles, automatisation et exploitation de données métiers.
+Before becoming a developer, I studied **Chemical Engineering**.
 
-**🚀 Fondateur — NeuroPay**
+That taught me to think in terms of:
 
-Construction d'une infrastructure permettant aux agents IA d'échanger des services et d'effectuer des paiements de manière autonome.
+**Systems → Variables → Models → Algorithms → Optimization**
 
-**📢 Créateur de contenu**
+I now apply the same reasoning to software engineering.
 
-Je partage mes expériences autour du développement, de l'IA, de l'automatisation et de la construction de produits.
+```python
+def solve(problem):
 
----
+    understand(problem)
 
-## 🎯 Ce qui m'intéresse
+    data = collect_data(problem)
 
-```text
-AI Agents
-Automation
-Full-Stack Development
-Data Engineering
-Web Scraping
-APIs
-Cybersecurity
-Mathematical Algorithms
-Web3
-Product Development
+    model = design_solution(data)
+
+    system = build(model)
+
+    system = automate(system)
+
+    return optimize(system)
 ```
 
-Je suis particulièrement intéressé par les projets où **la technologie permet de supprimer une tâche manuelle, accélérer un processus ou créer un nouveau produit.**
+My favorite projects are the ones where the problem initially looks complicated...
+
+...and the final solution feels **simple**.
 
 ---
 
-## 🤝 Let's build something
-
-Tu travailles sur un projet intéressant ?
-
-Tu veux automatiser un processus ?
-
-Tu as une idée de produit ?
-
-**Je suis toujours ouvert aux discussions techniques, collaborations et opportunités.**
+# 📊 By the numbers
 
 <div align="center">
 
-### 📩 [contact@tmagency.fr](mailto:contact@tmagency.fr)
+<table>
+<tr>
+<td align="center">
 
-<br>
+### 1.4M+
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/theo-meuriot)
+LinkedIn impressions
+
+</td>
+
+<td align="center">
+
+### 10,000+
+
+Vehicles monitored
+
+</td>
+
+<td align="center">
+
+### 5+
+
+Freelance projects
+
+</td>
+
+<td align="center">
+
+### 2+
+
+Years coding
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+# 📈 Content & Community
+
+I also create technical content around:
+
+`Development` · `AI` · `Automation` · `Data` · `Projects` · `Tech`
+
+### LinkedIn
+
+**1,400,000+ impressions**
+
+My goal isn't simply to collect followers.
+
+It's to **share what I'm building, what I'm learning and what actually works.**
+
+<a href="https://www.linkedin.com/in/theo-meuriot">
+
+<img src="https://img.shields.io/badge/Follow_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+---
+
+# 🏗️ Featured Projects
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=theorick&style=flat-square&color=blue" alt="Profile views"/>
+<a href="https://github.com/theorick">
 
-**"Build. Automate. Iterate."**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theorick&repo=neuropay&theme=transparent&hide_border=true"/>
+
+</a>
+
+</div>
+
+> 🚧 More projects are currently being built.
+
+---
+
+# 🔬 From Chemistry to Code
+
+One of the things that makes my profile different is the combination of **scientific training + software engineering**.
+
+```text
+        CHEMISTRY
+            │
+            │
+     Mathematics
+     Data Analysis
+     Modelling
+     Process Engineering
+            │
+            ▼
+      SOFTWARE
+            │
+     Algorithms
+     Automation
+     AI
+     Data Engineering
+            │
+            ▼
+        PRODUCTS
+```
+
+I don't see my previous background as something unrelated to development.
+
+**It's part of how I approach problems.**
+
+---
+
+# 🎯 Currently exploring
+
+```text
+🤖 AI Agents
+⚙️ Advanced Automation
+🧠 Machine Learning
+🌐 Agentic Web
+💸 Machine-to-Machine Payments
+📊 Data Engineering
+🔐 Cybersecurity
+🧮 Algorithms & Mathematics
+🚀 Product Development
+```
+
+---
+
+# 🌐 Where to find me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/theo-meuriot">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/theorick">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:contact@tmagency.fr">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<details>
+<summary><h2>📊 GitHub Statistics</h2></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=theorick&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=theorick&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theorick&layout=compact&theme=transparent&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theorick&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><h2>🧪 Skills in more detail</h2></summary>
+
+<br/>
+
+| Domain             | Technologies                                  |
+| ------------------ | --------------------------------------------- |
+| **Backend**        | Python · Django · FastAPI · Node.js           |
+| **Frontend**       | HTML · CSS · JavaScript · TypeScript          |
+| **Data**           | Pandas · NumPy · OpenCV                       |
+| **Automation**     | Scraping · Async · APIs · Workflows           |
+| **Databases**      | PostgreSQL · MySQL · SQLite · MongoDB · Redis |
+| **Infrastructure** | Docker · Nginx · Linux · Git                  |
+| **AI**             | AI APIs · Agents · Data Processing            |
+| **Other**          | Web3 · Cybersecurity · Algorithms             |
+
+</details>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Automate. Iterate.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00D2D3&height=120&section=footer"/>
 
 </div>
