@@ -305,15 +305,6 @@ It's to **share what I'm building, what I'm learning and what actually works.**
 
 # 🏗️ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/theorick">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theorick&repo=neuropay&theme=transparent&hide_border=true"/>
-
-</a>
-
-</div>
 
 > 🚧 More projects are currently being built.
 
