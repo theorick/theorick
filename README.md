@@ -106,7 +106,39 @@ Years coding
 </div>
 
 ---
+# ⚡ Tech Stack
 
+<div align="center">
+
+### 🐍 Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,go"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,symfony,fastapi"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+### 🤖 Data / AI
+
+<img src="https://skillicons.dev/icons?i=python,opencv"/>
+
+`Pandas` · `NumPy` · `Data Processing` · `Web Scraping` · `AI APIs` · `Automation`
+
+### 🐳 Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github"/>
+
+</div>
+
+---
 # 🚀 What I'm building
 
 <table>
@@ -211,40 +243,6 @@ Real projects. Real users. Real constraints.
 
 </tr>
 </table>
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### 🐍 Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,go"/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=django,symfony,fastapi"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis"/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-
-### 🤖 Data / AI
-
-<img src="https://skillicons.dev/icons?i=python,opencv"/>
-
-`Pandas` · `NumPy` · `Data Processing` · `Web Scraping` · `AI APIs` · `Automation`
-
-### 🐳 Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github"/>
-
-</div>
 
 ---
 
