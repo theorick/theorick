@@ -59,8 +59,6 @@ I enjoy building software that solves **real-world problems**, especially when d
 
 > **I don't just write code. I build systems.**
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theorick&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-
 ---
 
 # ⚡ Tech Stack
@@ -97,6 +95,7 @@ I enjoy building software that solves **real-world problems**, especially when d
 
 ---
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=theorick&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 # 📊 By the numbers
 
