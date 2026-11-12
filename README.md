@@ -105,9 +105,9 @@ I enjoy building software that solves **real-world problems**, especially when d
 <tr>
 <td align="center">
 
-### 1.4M+
+### 2M+
 
-LinkedIn impressions
+LinkedIn impressions in one year
 
 </td>
 
